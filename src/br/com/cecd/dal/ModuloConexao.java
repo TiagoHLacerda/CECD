@@ -20,9 +20,9 @@ public class ModuloConexao {
         // armazenando infos referentes ao banco
         
       
-       String url="jdbc:mysql://cecd.c9ng1pnpwct5.us-east-2.rds.amazonaws.com:3306/BancoDadosCECD?characterEnconding=utf-8";
-       String user ="admin";
-       String password ="LiviaSofia";
+       String url="banco de dados";
+       String user ="";
+       String password ="";
         
         
         try {
